@@ -14,6 +14,7 @@ samt fotnoten kan innehålla kod.
 - [ ] Infoga en definition lista för projektrelaterade termer.
 
 ################Task 16
+That is so funny! :joy:
 
 
 
@@ -25,7 +26,6 @@ samt fotnoten kan innehålla kod.
 }
 
 
-That is so funny! :joy:
 
 ################# Task 17
 I need to highlight these <mark>very important words</mark>.
