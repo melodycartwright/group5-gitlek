@@ -1,5 +1,14 @@
 # group5-gitlek
 
+########### Task 11
+ [^bignote]: Rubriker används för att strukturera innehållet som kan användas i en README-fil: 
+# Header 1
+Innehåll för header 1.
+
+samt fotnoten kan innehålla kod. 
+
+`{ my code }`
+
 ############### Task 15
 
 - [x] Lägg till subscript för vetenskapliga notationer.
