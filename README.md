@@ -1,4 +1,3 @@
-# group5-gitlek
 
 ############### Task 15
 
@@ -6,4 +5,14 @@
 - [ ] Infoga en definition lista för projektrelaterade termer.
 
 ################Task 16
-That is so funny! :joy:
+
+
+
+
+
+############ Task 12 {
+  "name": "John",
+  "age": 30,
+  "skills": ["HTML", "CSS"]
+}
+
